@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<title id="title">PLAYER: code-sail</title><desc id="desc">Pixel art game save screen with stars, mountains, and an adventurer.</desc>
+<rect width="1200" height="360" fill="#17152e"/><rect x="12" y="12" width="1176" height="336" fill="none" stroke="#66548e" stroke-width="4"/>
+<g fill="#aeefff"><path d="M90 54h8v8h-8z M196 117h6v6h-6z M317 49h8v8h-8z M552 79h6v6h-6z M710 40h8v8h-8z M799 113h6v6h-6z M1110 56h8v8h-8z"/><path d="M1051 119h5v17h-5z M1045 125h17v5h-17z"/></g>
+<rect x="930" y="46" width="60" height="60" fill="#ffd77b"/><rect x="918" y="58" width="84" height="36" fill="#ffd77b"/>
+<path d="M0 259h110v-35h75v-26h75v32h75v-18h86v42h95v-38h76v-22h72v31h86v28h65v-35h90v-24h88v31h80v-20h80v50h87v85H0z" fill="#34305a"/>
+<path d="M0 287h140v-18h160v17h140v-18h145v23h150v-20h130v17h150v-20h185v92H0z" fill="#252541"/>
+<rect x="0" y="315" width="1200" height="45" fill="#111c2d"/><rect x="0" y="311" width="1200" height="4" fill="#61d7c4"/>
+<g transform="translate(910 187)"><rect x="32" y="0" width="48" height="12" fill="#eed2a1"/><rect x="20" y="12" width="72" height="48" fill="#eed2a1"/><rect x="20" y="0" width="72" height="16" fill="#283650"/><rect x="12" y="12" width="20" height="20" fill="#283650"/><rect x="72" y="27" width="8" height="8" fill="#283650"/><rect x="32" y="60" width="48" height="12" fill="#dcae81"/><rect x="12" y="72" width="88" height="50" fill="#58c5b5"/><rect x="0" y="78" width="12" height="38" fill="#eed2a1"/><rect x="100" y="78" width="12" height="38" fill="#eed2a1"/><rect x="20" y="122" width="28" height="8" fill="#e4b866"/><rect x="64" y="122" width="28" height="8" fill="#e4b866"/></g>
+<text x="86" y="91" fill="#7ce7d8" font-family="Consolas,monospace" font-size="19" font-weight="bold" letter-spacing="3">▶ PLAYER PROFILE</text>
+<text x="82" y="158" fill="#fff4d4" font-family="Consolas,monospace" font-size="58" font-weight="bold" letter-spacing="3">code-sail</text>
+<text x="86" y="205" fill="#c2b5e4" font-family="Consolas,monospace" font-size="19" letter-spacing="2">A NEW ADVENTURE AWAITS_</text>
+<rect x="86" y="229" width="8" height="8" fill="#ffd77b"/><rect x="100" y="229" width="8" height="8" fill="#ffd77b"/><rect x="114" y="229" width="8" height="8" fill="#ffd77b"/>
+</svg>
