@@ -1,16 +1,25 @@
-## Hi there 👋
+# ⛵ code-sail
 
-<!--
-**code-sail/code-sail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+用代码探索世界，记录沿途的想法与作品。
 
-Here are some ideas to get you started:
+### 🧭 正在航行
 
-- 🔭 I’m currently working on hellojmf
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 正在做：hellojmf
+- 🌱 最近关注：探索新的技术与创意
+
+### 🗺️ 航行地图
+
+- 🚀 **项目名称** — 一句话介绍这个项目。
+- 🛠️ **项目名称** — 一句话介绍这个项目。
+
+### ⚓ 我的工具箱
+
+常用的语言、框架和工具，待补充。
+
+### 📬 捎个消息
+
+公开联系方式和个人链接，待补充。
+
+---
+
+*Keep sailing, keep building.*
